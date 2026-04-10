@@ -70,7 +70,6 @@ project/
 - SciPy
 - Statsmodels
 - Matplotlib
-- Seaborn
 
 ---
 
