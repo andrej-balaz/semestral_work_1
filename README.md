@@ -16,17 +16,13 @@ The project focuses on hypothesis testing, confidence interval estimation, corre
 - Data visualization
 - Working with structured datasets in Python
 
----
-
-## Project Structure
-
+```
 project/
 │
-├── data/              Simulated input datasets  
-├── notebooks/         Jupyter notebooks with analysis  
-├── README.md          Project documentation  
-
----
+├── data/        Simulated input datasets
+├── notebooks/   Jupyter notebooks with analysis
+├── README.md    Project documentation
+```
 
 ## Analyses Performed
 
